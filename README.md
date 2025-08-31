@@ -1,4 +1,4 @@
-# Financial-Loan-Report-
+# Financial-Loan-Report
 **1. Project Intro**
 The project is a comprehensive Bank Loan Analysis dashboard designed for the finance domain. It aims to analyze loan data to provide insights into loan performance, customer behavior, loan status, and financial metrics to help banks or financial institutions make informed business decisions.
 
