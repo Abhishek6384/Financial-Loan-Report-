@@ -1,4 +1,5 @@
 # Financial-Loan-Report
+<img width="1572" height="877" alt="Financial Loan Report - Summary Page" src="https://github.com/user-attachments/assets/4617deed-3b2f-44e7-8a3d-2cd016fc2086" />
 **1. Project Intro**
 The project is a comprehensive Bank Loan Analysis dashboard designed for the finance domain. It aims to analyze loan data to provide insights into loan performance, customer behavior, loan status, and financial metrics to help banks or financial institutions make informed business decisions.
 
@@ -28,6 +29,4 @@ The data source is a financial loan dataset hosted on Microsoft SQL Server. The 
 • Overview Dashboard: Trend analysis with line charts illustrating monthly loan issuance, state-wise distribution, terms, employment, purpose, and ownership breakdowns with dynamic measure switching.
 • Details Dashboard: Grid view displaying detailed loan-level data such as loan ID, purpose, grade, subgrade, amount funded, repayment, interest rates, and payment status, allowing granular analysis and data export.
 
-**7.Dashboard Preview :**
 
-<img width="1572" height="877" alt="Financial Loan Report - Summary Page" src="https://github.com/user-attachments/assets/4617deed-3b2f-44e7-8a3d-2cd016fc2086" />
